@@ -1,0 +1,13 @@
+This is the document for this project.
+
+This project is a score library.
+
+It has some common functions:
+
+1. Create an object, see fraction.cpp;
+
+2. Output, see output.cpp;
+
+3. Operation, see operation.cpp;
+
+4. Common operations for scores can be found in common.cpp.
